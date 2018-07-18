@@ -8,8 +8,10 @@ Welcome to beecoin's documentation!
 
 .. toctree::
    :maxdepth: 1
-   home
+   
 
+   helloworld
+   home
 
 
 Indices and tables
